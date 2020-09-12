@@ -19,7 +19,7 @@
     "homepage": "https://github.com/jscomplete/learn-fullstack-javascript#readme",
     "dependencies": {
         "express": "^4.14.0",
-        "mongodb": "^2.2.10",
+        "mongodb": "^3.6.1",
         "react": "^15.3.2",
         "react-dom": "^15.3.2"
     },
